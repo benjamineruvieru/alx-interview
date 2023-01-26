@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Pascal Trangle
-"
+"""
 
 
 def pascal_triangle(n):
